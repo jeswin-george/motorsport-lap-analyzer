@@ -15,7 +15,7 @@ Example output:
 - Lap 2: 123.00 sec
 - Lap 3: 85.00 sec (fastest)
 
-![Lap Graph](#) ← *(You can upload a screenshot later)*
+![Lap Graph](#) 
 
 ## 🚀 Tech Used
 - Python
