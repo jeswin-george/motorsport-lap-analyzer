@@ -15,7 +15,7 @@ Example output:
 - Lap 2: 123.00 sec
 - Lap 3: 85.00 sec (fastest)
 
-![Lap Graph](#) 
+![Lap Graph](https://github.com/jeswin-george/motorsport-lap-analyzer/blob/main/Lap_Time_Graph.png) 
 
 ## 🚀 Tech Used
 - Python
